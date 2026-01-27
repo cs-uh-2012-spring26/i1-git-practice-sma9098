@@ -18,3 +18,6 @@ backing services as attached resources makes cloud deployment much more reliable
 - Keep dependencies explicit
 - Store config in environment variables
 - Treat logs as event streams
+
+##Proof Reading
+- Checked for typos successfuly. 
