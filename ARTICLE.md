@@ -27,3 +27,7 @@ backing services as attached resources makes cloud deployment much more reliable
 It's super cool that you experienced stuff related to this article MAN!
 signed:
 Saif Mubarak Almheiri
+
+## Comment by Taha
+
+Great article choice! Declarative format removes dependencies and makes deployment across different environments smoother.
