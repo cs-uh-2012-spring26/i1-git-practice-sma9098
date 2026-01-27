@@ -21,3 +21,9 @@ backing services as attached resources makes cloud deployment much more reliable
 
 ##Proof Reading
 - Checked for typos successfuly. 
+
+## Comment from Saif 
+
+It's super cool that you experienced stuff related to this article MAN!
+signed:
+Saif Mubarak Almheiri
